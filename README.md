@@ -1,4 +1,4 @@
-# 🧪 MatFlow — High-Tech Material & Purchase Order Management System
+# Tape-Stock-Management
 
 <p align="center">
   <img src="src/assets/hero.png" alt="MatFlow Banner" width="100%" style="max-height: 280px; object-fit: cover; border-radius: 12px; margin-bottom: 16px;" onerror="this.style.display='none'" />
